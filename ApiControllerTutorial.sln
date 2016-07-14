@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiControllerTutorial", "ApiControllerTutorial\ApiControllerTutorial.csproj", "{58700F8F-360D-49AA-940C-212EE0AE1D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restapi", "restapi\restapi.csproj", "{5F1D07BD-C2EF-434A-8B35-64CA4A829041}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,10 @@ Global
 		{58700F8F-360D-49AA-940C-212EE0AE1D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58700F8F-360D-49AA-940C-212EE0AE1D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58700F8F-360D-49AA-940C-212EE0AE1D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

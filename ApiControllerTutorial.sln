@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiControllerTutorial", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restapi", "restapi\restapi.csproj", "{5F1D07BD-C2EF-434A-8B35-64CA4A829041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "del", "del\del.csproj", "{390E073D-A876-48AA-B789-DF60B06DFDFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1D07BD-C2EF-434A-8B35-64CA4A829041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390E073D-A876-48AA-B789-DF60B06DFDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390E073D-A876-48AA-B789-DF60B06DFDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390E073D-A876-48AA-B789-DF60B06DFDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390E073D-A876-48AA-B789-DF60B06DFDFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
